@@ -1,4 +1,4 @@
-opencv-python
-mediapipe
+opencv-python-headless
+cvzone
 streamlit
 numpy
